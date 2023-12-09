@@ -19,7 +19,7 @@ Here are some screenshots of the project to give you an idea of its features and
 ![Select Template](https://user-images.githubusercontent.com/87645745/213860462-ea8bd7db-2c15-4633-9894-113f047cc13b.png)
 
 ###### Resume Builder Page
-![Resume Building]
+![Resume Building](https://github.com/Vikesh8107/Resume_Builder/blob/master/src/Assets/Screenshot%20(314).png)
 
 
 ###### Dark Mode
